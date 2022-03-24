@@ -1,0 +1,13 @@
+.bk {
+background: url(video3.jpg)center/cover no-repeat fixed;
+}
+.bc {
+    background: url(video2.jpg)center/cover no-repeat fixed;
+}
+.video {
+    background: url(video.jpg)center/cover no-repeat fixed;
+}
+
+.background {
+    background: url(ph3.jpg)center/cover no-repeat fixed;
+}
